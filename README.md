@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Your Name - Dog Trainer</title>
+    <title>Amanda Jansen - Dog Trainer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 <body>
 
 <header>
-    <h1>Your Name - Professional Dog Trainer</h1>
+    <h1>Amanda Jansen - Professional Dog Trainer</h1>
 </header>
 
 <nav>
@@ -68,7 +68,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I’m [Your Name], a professional dog trainer with [X years] of experience in helping dogs and their owners develop strong, positive relationships. I specialize in [mention specialties, e.g., obedience training, behavior correction, puppy training]. My passion for animals drives my work, and I am committed to using positive reinforcement techniques to bring out the best in every dog I train.</p>
+    <p>Hello! I’m Amanda, a professional dog trainer with 12 years of experience in helping dogs and their owners develop strong, positive relationships. I specialize in obedience training, behavior correction, puppy training. My passion for animals drives my work, and I am committed to using the best methods for each dog to bring out the best in every dog I train.</p>
 </section>
 
 <section id="services">
@@ -88,14 +88,14 @@
     <h2>Contact Information</h2>
     <p>If you're ready to start training or have any questions, feel free to reach out:</p>
     <div class="contact-info">
-        <p><strong>Email:</strong> your.email@example.com</p>
-        <p><strong>Phone:</strong> (555) 123-4567</p>
-        <p><strong>Location:</strong> [Your City, State]</p>
+        <p><strong>Email:</strong> dogsbehavin@gmail.com</p>
+        <p><strong>Phone:</strong> (520)-260-6936</p>
+        <p><strong>Location:</strong> [Benson, Az ]</p>
     </div>
 </section>
 
 <footer>
-    <p>© 2024 Your Name - Professional Dog Trainer</p>
+    <p>© 2024 Amanda Jansen- Professional Dog Trainer</p>
 </footer>
 
 </body>
